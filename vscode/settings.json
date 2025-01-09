@@ -1,0 +1,94 @@
+{
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#725a5a",
+    "statusBar.noFolderBackground": "#212121",
+    "statusBar.debuggingBackground": "#7c3b1c"
+  },
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.accessibilitySupport": "off",
+  "editor.fontSize": 15,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": [
+          "comment",
+          "keyword",
+          "storage.modifier",
+          "storage.type.class.js",
+          "storage.type.js"
+        ],
+        "settings": {
+          "fontStyle": "italic bold"
+        }
+      },
+      {
+        "scope": ["keyword.control.conditional", "keyword.operator"],
+        "settings": {
+          "fontStyle": ""
+        }
+      }
+    ]
+  },
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": "off"
+  },
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "dart.lineLength": 120,
+  "workbench.editorAssociations": {
+    "*.xlsx": "default",
+    "*.ttf": "default"
+  },
+  "dart.debugExternalPackageLibraries": false,
+  "dart.debugSdkLibraries": false,
+  "sqltools.useNodeRuntime": true,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "color-highlight.markerType": "dot-before",
+  "color-highlight.markRuler": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "emulator.emulatorPath": "/home/dipak_k/Android/Sdk/emulator",
+  "emulator.emulatorPathWindows": "E:\\sdk\\andoid-sdk\\emulator",
+  "emulator.emulatorPathLinux": "/home/dipak_k/Android/Sdk/emulator",
+  "emulator.emulatorPathMac": "~/Library/Android/sdk/emulator",
+  "git.autofetch": true,
+  "editor.guides.bracketPairs": "active",
+  "[yaml]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.stickyTabStops": true,
+  "emulator.simulatorPath": "/Applications/Xcode\\ 15.3.app/Contents/Developer/Applications/Simulator.app",
+  "rapidapi.terminalLink.enabled": false,
+  "update.mode": "default",
+  "animations.Install-Method": "Apc Customize UI++",
+  "peacock.color": "#ffffff",
+  "workbench.colorTheme": "Winter is Coming (Dark Blue - No Italics)",
+  "workbench.iconTheme": "helium-icon-theme",
+  "terminal.integrated.fontSize": 13,
+  "debug.console.fontSize": 13,
+  "http.systemCertificates": false,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
