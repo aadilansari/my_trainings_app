@@ -47,3 +47,6 @@
 2. run flutter pub get
 3. flutter run
 
+![Screenshot_1736442025](https://github.com/user-attachments/assets/481ed399-3986-450e-9609-153878462f6c)
+![Screenshot_1736442035](https://github.com/user-attachments/assets/730a1fb1-e8a2-4f6d-b969-29da1af30278)
+![Screenshot_1736442045](https://github.com/user-attachments/assets/a5e20d6c-1e87-450c-8421-8475ef9ef11c)
