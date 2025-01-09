@@ -2,6 +2,9 @@
 
 **My Trainings App** is a mobile application built using Flutter that allows users to discover and explore training programs. The app features an intuitive design, smooth performance, and various filters to help users find the training they are interested in.
 
+## Video
+https://github.com/user-attachments/assets/4c20db0c-a7e3-4db8-9c96-368414434157
+
 ## Features
 
 ### 1. **Highlights Carousel**
